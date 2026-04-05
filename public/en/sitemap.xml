@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://blog.10sae.net/changelog/</loc>
+    <lastmod>2026-03-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://blog.10sae.net/changelog/changelog/</loc>
+    <lastmod>2026-03-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://blog.10sae.net/</loc>
+    <lastmod>2026-02-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://blog.10sae.net/es/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://blog.10sae.net/"
+    />
+  </url>
+  <url>
+    <loc>https://blog.10sae.net/posts/migraci%C3%B3n-de-servidor/</loc>
+    <lastmod>2026-02-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://blog.10sae.net/posts/</loc>
+    <lastmod>2026-02-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

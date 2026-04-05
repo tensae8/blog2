@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Configuración on 10sae.net</title>
+    <link>https://blog.10sae.net/categories/configuraci%C3%B3n/</link>
+    <description>Recent content in Configuración on 10sae.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.10sae.net/categories/configuraci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Migración de servidor</title>
+      <link>https://blog.10sae.net/posts/migraci%C3%B3n-de-servidor/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.10sae.net/posts/migraci%C3%B3n-de-servidor/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

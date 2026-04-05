@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on 10sae.net</title>
+    <link>https://blog.10sae.net/autores/test/</link>
+    <description>Recent content in Test on 10sae.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>tensae@tutamail.com (Tensae Chumillas)</managingEditor>
+    <webMaster>tensae@tutamail.com (Tensae Chumillas)</webMaster>
+    <copyright>© 2026 Tensae Chumillas</copyright>
+    <lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.10sae.net/autores/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Historial de cambios</title>
+      <link>https://blog.10sae.net/changelog/changelog/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <author>tensae@tutamail.com (Tensae Chumillas)</author>
+      <guid>https://blog.10sae.net/changelog/changelog/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

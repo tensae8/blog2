@@ -1,0 +1,5 @@
+.content p,
+.content ul,
+.content ol {
+  text-align: justify !important;
+}

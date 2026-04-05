@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on 10sae.net</title>
+    <link>https://blog.10sae.net/authors/</link>
+    <description>Recent content in Authors on 10sae.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>tensae@tutamail.com (Tensae Chumillas)</managingEditor>
+    <webMaster>tensae@tutamail.com (Tensae Chumillas)</webMaster>
+    <copyright>© 2026 Tensae Chumillas</copyright>
+    <atom:link href="https://blog.10sae.net/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experimentos on 10sae.net</title>
+    <link>https://blog.10sae.net/etiquetas/experimentos/</link>
+    <description>Recent content in Experimentos on 10sae.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>tensae@tutamail.com (Tensae Chumillas)</managingEditor>
+    <webMaster>tensae@tutamail.com (Tensae Chumillas)</webMaster>
+    <copyright>© 2026 Tensae Chumillas</copyright>
+    <lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.10sae.net/etiquetas/experimentos/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Como cambiar el sistema operativo a Alexa</title>
+      <link>https://blog.10sae.net/posts/alexa/cap01/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <author>tensae@tutamail.com (Tensae Chumillas)</author>
+      <guid>https://blog.10sae.net/posts/alexa/cap01/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.10sae.net/posts/alexa/cap01/featured.webp" />
+    </item>
+    
+  </channel>
+</rss>
