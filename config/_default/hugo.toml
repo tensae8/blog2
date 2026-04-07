@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-baseURL = "https://blog.10sae.net/"
+baseURL = "https://blog-test.10sae.net/"
 defaultContentLanguage = "es"
 
 pluralizeListTitles = true # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
