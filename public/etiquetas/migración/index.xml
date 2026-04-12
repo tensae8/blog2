@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Migración on 10sae.net</title>
-    <link>https://blog.10sae.net/etiquetas/migraci%C3%B3n/</link>
+    <link>https://blog-test.10sae.net/etiquetas/migraci%C3%B3n/</link>
     <description>Recent content in Migración on 10sae.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <managingEditor>tensae@tutamail.com (Tensae Chumillas)</managingEditor>
     <webMaster>tensae@tutamail.com (Tensae Chumillas)</webMaster>
     <copyright>© 2026 Tensae Chumillas</copyright>
-    <lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.10sae.net/etiquetas/migraci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog-test.10sae.net/etiquetas/migraci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Migración de servidor</title>
-      <link>https://blog.10sae.net/posts/migraci%C3%B3n-de-servidor/</link>
+      <link>https://blog-test.10sae.net/posts/migraci%C3%B3n-de-servidor/</link>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
       <author>tensae@tutamail.com (Tensae Chumillas)</author>
-      <guid>https://blog.10sae.net/posts/migraci%C3%B3n-de-servidor/</guid>
+      <guid>https://blog-test.10sae.net/posts/migraci%C3%B3n-de-servidor/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.10sae.net/posts/migraci%C3%B3n-de-servidor/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog-test.10sae.net/posts/migraci%C3%B3n-de-servidor/featured.webp" />
     </item>
     
   </channel>

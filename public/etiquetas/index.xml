@@ -2,51 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Etiquetas on 10sae.net</title>
-    <link>https://blog.10sae.net/etiquetas/</link>
+    <link>https://blog-test.10sae.net/etiquetas/</link>
     <description>Recent content in Etiquetas on 10sae.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <managingEditor>tensae@tutamail.com (Tensae Chumillas)</managingEditor>
     <webMaster>tensae@tutamail.com (Tensae Chumillas)</webMaster>
     <copyright>© 2026 Tensae Chumillas</copyright>
-    <lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.10sae.net/etiquetas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog-test.10sae.net/etiquetas/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Experimentos</title>
-      <link>https://blog.10sae.net/etiquetas/experimentos/</link>
+      <link>https://blog-test.10sae.net/etiquetas/experimentos/</link>
       <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
       <author>tensae@tutamail.com (Tensae Chumillas)</author>
-      <guid>https://blog.10sae.net/etiquetas/experimentos/</guid>
+      <guid>https://blog-test.10sae.net/etiquetas/experimentos/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Privacidad</title>
-      <link>https://blog.10sae.net/etiquetas/privacidad/</link>
+      <link>https://blog-test.10sae.net/etiquetas/privacidad/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <author>tensae@tutamail.com (Tensae Chumillas)</author>
-      <guid>https://blog.10sae.net/etiquetas/privacidad/</guid>
+      <guid>https://blog-test.10sae.net/etiquetas/privacidad/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>IA</title>
+      <link>https://blog-test.10sae.net/etiquetas/ia/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <author>tensae@tutamail.com (Tensae Chumillas)</author>
+      <guid>https://blog-test.10sae.net/etiquetas/ia/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Migración</title>
-      <link>https://blog.10sae.net/etiquetas/migraci%C3%B3n/</link>
+      <link>https://blog-test.10sae.net/etiquetas/migraci%C3%B3n/</link>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
       <author>tensae@tutamail.com (Tensae Chumillas)</author>
-      <guid>https://blog.10sae.net/etiquetas/migraci%C3%B3n/</guid>
+      <guid>https://blog-test.10sae.net/etiquetas/migraci%C3%B3n/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Proxmox</title>
-      <link>https://blog.10sae.net/etiquetas/proxmox/</link>
+      <link>https://blog-test.10sae.net/etiquetas/proxmox/</link>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
       <author>tensae@tutamail.com (Tensae Chumillas)</author>
-      <guid>https://blog.10sae.net/etiquetas/proxmox/</guid>
+      <guid>https://blog-test.10sae.net/etiquetas/proxmox/</guid>
       <description></description>
       
     </item>

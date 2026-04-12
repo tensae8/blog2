@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Acerca de on 10sae.net</title>
-    <link>https://blog.10sae.net/acerca_de/</link>
+    <link>https://blog-test.10sae.net/acerca_de/</link>
     <description>Recent content in Acerca de on 10sae.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <managingEditor>tensae@tutamail.com (Tensae Chumillas)</managingEditor>
     <webMaster>tensae@tutamail.com (Tensae Chumillas)</webMaster>
     <copyright>© 2026 Tensae Chumillas</copyright>
-    <atom:link href="https://blog.10sae.net/acerca_de/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog-test.10sae.net/acerca_de/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

@@ -2,41 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categorías on 10sae.net</title>
-    <link>https://blog.10sae.net/categor%C3%ADas/</link>
+    <link>https://blog-test.10sae.net/categor%C3%ADas/</link>
     <description>Recent content in Categorías on 10sae.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <managingEditor>tensae@tutamail.com (Tensae Chumillas)</managingEditor>
     <webMaster>tensae@tutamail.com (Tensae Chumillas)</webMaster>
     <copyright>© 2026 Tensae Chumillas</copyright>
-    <lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.10sae.net/categor%C3%ADas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog-test.10sae.net/categor%C3%ADas/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Guía</title>
-      <link>https://blog.10sae.net/categor%C3%ADas/gu%C3%ADa/</link>
+      <link>https://blog-test.10sae.net/categor%C3%ADas/gu%C3%ADa/</link>
       <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
       <author>tensae@tutamail.com (Tensae Chumillas)</author>
-      <guid>https://blog.10sae.net/categor%C3%ADas/gu%C3%ADa/</guid>
+      <guid>https://blog-test.10sae.net/categor%C3%ADas/gu%C3%ADa/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Opinión</title>
-      <link>https://blog.10sae.net/categor%C3%ADas/opini%C3%B3n/</link>
+      <link>https://blog-test.10sae.net/categor%C3%ADas/opini%C3%B3n/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <author>tensae@tutamail.com (Tensae Chumillas)</author>
-      <guid>https://blog.10sae.net/categor%C3%ADas/opini%C3%B3n/</guid>
+      <guid>https://blog-test.10sae.net/categor%C3%ADas/opini%C3%B3n/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Información</title>
+      <link>https://blog-test.10sae.net/categor%C3%ADas/informaci%C3%B3n/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <author>tensae@tutamail.com (Tensae Chumillas)</author>
+      <guid>https://blog-test.10sae.net/categor%C3%ADas/informaci%C3%B3n/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Configuración</title>
-      <link>https://blog.10sae.net/categor%C3%ADas/configuraci%C3%B3n/</link>
+      <link>https://blog-test.10sae.net/categor%C3%ADas/configuraci%C3%B3n/</link>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
       <author>tensae@tutamail.com (Tensae Chumillas)</author>
-      <guid>https://blog.10sae.net/categor%C3%ADas/configuraci%C3%B3n/</guid>
+      <guid>https://blog-test.10sae.net/categor%C3%ADas/configuraci%C3%B3n/</guid>
       <description></description>
       
     </item>

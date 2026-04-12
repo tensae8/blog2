@@ -3,59 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://blog.10sae.net/posts/alexa/cap01/</loc>
+    <loc>https://blog-test.10sae.net/posts/alexa/cap01/</loc>
     <lastmod>2026-04-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.10sae.net/posts/</loc>
+    <loc>https://blog-test.10sae.net/posts/</loc>
     <lastmod>2026-04-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.10sae.net/posts/privacidad/cap1/</loc>
+    <loc>https://blog-test.10sae.net/posts/privacidad/cap1/</loc>
     <lastmod>2026-04-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.10sae.net/changelog/</loc>
+    <loc>https://blog-test.10sae.net/ia/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://blog-test.10sae.net/changelog/</loc>
     <lastmod>2026-03-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.10sae.net/changelog/changelog/</loc>
+    <loc>https://blog-test.10sae.net/changelog/changelog/</loc>
     <lastmod>2026-03-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.10sae.net/</loc>
+    <loc>https://blog-test.10sae.net/</loc>
     <lastmod>2026-02-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.10sae.net/posts/migraci%C3%B3n-de-servidor/</loc>
+    <loc>https://blog-test.10sae.net/posts/migraci%C3%B3n-de-servidor/</loc>
     <lastmod>2026-02-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.10sae.net/acerca_de/</loc>
+    <loc>https://blog-test.10sae.net/acerca_de/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.10sae.net/authors/</loc>
+    <loc>https://blog-test.10sae.net/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.10sae.net/authors/tensae/</loc>
+    <loc>https://blog-test.10sae.net/authors/tensae/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

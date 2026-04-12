@@ -17,10 +17,10 @@
   pre = "pencil"
 
 [[main]]
-  name = "Home"
+  name = "Inicio"
   pageRef = "/"
   weight = 10
-
+  pre = "home"
 #[[main]]
 #  name = "example sub-menu 1"
 #  parent = "Parent"
@@ -50,15 +50,16 @@
   weight = 30
   pre = "list"
 
-#[[main]]
-#  name = "Etiquetas"
-#  pageRef = "/Etiquetas/"
-#  weight = 50
+[[main]]
+  name = "¿IA?"
+  pageRef = "/IA/_index.md"
+  weight = 40
+  pre = "robot"
 
 [[main]]
   name = "Acerca de"
   pageRef = "/acerca_de/"
-  weight = 40
+  weight = 50
   pre = "circle-info"
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

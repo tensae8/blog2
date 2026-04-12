@@ -7,7 +7,7 @@ categorías: [opinión]
 etiquetas: [privacidad]
 series: ["Privacidad"]
 series_order: 1
-type: posts
+type: 'posts'
 ---
 ## Introducción
 
