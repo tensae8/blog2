@@ -43,4 +43,4 @@ Si se quiere saber más a cerca de ella recomiendo visitar la web de [`notbyai`]
 
 Para dar una visión más clara del por qué lo comentado anteriormente puede llegar a ser un problema creo que esta imagen podría ser de ayuda:
 
-![Blog_IA_Diagrama.jpg](_resources/Blog_IA_Diagrama.jpg "Inspirado en [`notbyai`](https://notbyai.fyi)")
+![Blog_IA_Diagrama.jpg](_resources/Blog_IA_Diagrama.svg "Inspirado en [`notbyai`](https://notbyai.fyi)")
