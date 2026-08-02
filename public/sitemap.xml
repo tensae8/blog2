@@ -3,65 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://blog-test.10sae.net/posts/alexa/cap01/</loc>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-08-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/truenas_sobre_proxmox/</loc>
+    <lastmod>2026-08-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/alexa/cap01/</loc>
     <lastmod>2026-04-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog-test.10sae.net/posts/</loc>
-    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://blog-test.10sae.net/posts/privacidad/cap1/</loc>
+    <loc>http://localhost:1313/posts/privacidad/cap1/</loc>
     <lastmod>2026-04-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog-test.10sae.net/ia/</loc>
+    <loc>http://localhost:1313/ia/</loc>
     <lastmod>2026-03-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog-test.10sae.net/changelog/</loc>
+    <loc>http://localhost:1313/changelog/</loc>
     <lastmod>2026-03-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog-test.10sae.net/changelog/changelog/</loc>
+    <loc>http://localhost:1313/changelog/changelog/</loc>
     <lastmod>2026-03-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog-test.10sae.net/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-02-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog-test.10sae.net/posts/migraci%C3%B3n-de-servidor/</loc>
-    <lastmod>2026-02-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/acerca_de/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog-test.10sae.net/acerca_de/</loc>
+    <loc>http://localhost:1313/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog-test.10sae.net/authors/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://blog-test.10sae.net/authors/tensae/</loc>
+    <loc>http://localhost:1313/authors/tensae/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

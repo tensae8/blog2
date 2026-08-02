@@ -6,6 +6,7 @@ description: Proceso de migración de servidor proxmox
 categorías: [configuración]
 etiquetas: [proxmox, migración]
 type: posts
+draft: true
 ---
 ## Contexto
 
@@ -22,7 +23,7 @@ Como punto de acceso para la mayoría de mis servicios tengo un mini PC hp situa
 | ALMACENAMIENTO | 256GB M.2 |
 
 
-![MiniPC.jpg](../../_resources/MiniPC.jpg)
+![MiniPC.jpg](../_resources/Migracion_de_servidor/MiniPC.jpg)
 
 Es en esta máquina en la que tengo Proxmox instalado en el cual tengo varios contenedores funcionando como adguard y pihole o esta misma página web.
 ### PC
@@ -36,7 +37,7 @@ Por otro lado encontramos mi ordenador personal, en el cual están alojados mis 
 | RAM            | 16GB DDR4                       |
 | ALMACENAMIENTO | 128GB SSD SATA 2TB HDD          |
 
-![Configuracion_inicial.png](../../_resources/Configuracion_inicial.png)
+![Configuracion_inicial.png](../_resources/Migracion_de_servidor/Configuracion_inicial.png)
 
 ## Por qué?
 

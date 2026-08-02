@@ -9,7 +9,7 @@ baseURL = "https://blog.10sae.net/"
 enableRobotsTXT = true
 summaryLength = 0
 
-buildDrafts = false
+#buildDrafts = false # Managed in other config file in config/_default/hugo.toml
 buildFuture = false
 
 enableEmoji = true
