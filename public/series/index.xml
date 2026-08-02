@@ -22,6 +22,16 @@
     </item>
     
     <item>
+      <title>Mi Red Local</title>
+      <link>http://localhost:1313/series/mi-red-local/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <author>tensae@tutamail.com (Tensae Chumillas)</author>
+      <guid>http://localhost:1313/series/mi-red-local/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Privacidad</title>
       <link>http://localhost:1313/series/privacidad/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
